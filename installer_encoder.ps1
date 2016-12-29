@@ -1,4 +1,4 @@
-﻿Set-ExecutionPolicy RemoteSigned
+﻿#Set-ExecutionPolicy RemoteSigned
 
 Set-Location -Path $home\Downloads
 
